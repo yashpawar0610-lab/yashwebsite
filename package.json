@@ -1,0 +1,14 @@
+{
+  "name": "pulse-dashboard-monorepo",
+  "version": "1.0.0",
+  "description": "Full-stack Glassmorphism Analytics & Reporting Web Application",
+  "scripts": {
+    "start:backend": "npm --prefix backend start",
+    "seed:backend": "npm --prefix backend run seed",
+    "start:frontend": "npm --prefix frontend run dev",
+    "build:frontend": "npm --prefix frontend run build"
+  },
+  "keywords": ["react", "vite", "express", "mongodb", "glassmorphism", "dashboard"],
+  "author": "Antigravity",
+  "license": "ISC"
+}
