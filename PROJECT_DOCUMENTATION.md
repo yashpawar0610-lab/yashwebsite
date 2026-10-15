@@ -3,8 +3,8 @@
 
 **Project Title**: PULSE — Enterprise Glassmorphism Analytics & Reporting Platform  
 **Submitted By**: Yash Pawar  
-**Roll Number**: `[Enter Your Roll Number]`  
-**Institute Name**: `[Enter Your College / Institute Name]`  
+**Roll Number**: 291  
+**Institute Name**: Guru Nanak Khalsa College  
 **Academic Year**: 2026 – 2027  
 **Technology**: React.js • Node.js • Express.js • MongoDB • Vite  
 
